@@ -1,3 +1,3 @@
 # Company-Preparation
 
-Amazon SDE preparation
+Amazon SDE series in geeksforgeeks
